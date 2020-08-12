@@ -1,2 +1,2 @@
-# Mohan_Resume
+# Akash_Resume
 Digital representation of resume on website.
